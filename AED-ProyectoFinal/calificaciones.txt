@@ -1,0 +1,10 @@
+Byron Loarte
+17234312345
+Algoritmos
+Juan Perez juan@gmail.com 15.6 17.5 16.55
+Maria Valle valle@gmail.com 15.6 16.6 16.1
+Pablo Benitez pablo@gmail.com 15.6 17.8 16.7
+Promedio del curso: 16.45
+Aprobados (14 - 20): 3
+Suspenso (09 - 13): 0
+Reprobados (01 - 08): 0

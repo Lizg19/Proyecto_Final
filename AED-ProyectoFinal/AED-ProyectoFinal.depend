@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1600827647 source:c:\users\acer\desktop\liz\aed-proyectofinal\buscar.cpp
+	<iostream>
+	"buscar.h"
+	<fstream>
+	"colores.h"
+
+1600826034 c:\users\acer\desktop\liz\aed-proyectofinal\buscar.h
+	<iostream>
+	<fstream>
+	"colores.h"
+
+1600822920 source:c:\users\acer\desktop\liz\aed-proyectofinal\colores.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"colores.h"
+
+1600822920 c:\users\acer\desktop\liz\aed-proyectofinal\colores.h
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1600842944 source:c:\users\acer\desktop\liz\aed-proyectofinal\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"calificaciones.h"
+
+1600843584 c:\users\acer\desktop\liz\aed-proyectofinal\calificaciones.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	"burbuja.h"
+	"heapsort.h"
+	"mergesort.h"
+	"quicksort.h"
+	"insercion.h"
+	"seleccion.h"
+	"colores.h"
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\burbuja.h
+	<iostream>
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\heapsort.h
+	<iostream>
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\mergesort.h
+	<iostream>
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\quicksort.h
+	<iostream>
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\insercion.h
+	<iostream>
+
+1600822503 c:\users\acer\desktop\liz\aed-proyectofinal\seleccion.h
+	<iostream>
+
+1600842944 source:c:\users\acer\desktop\liz\aed-proyectofinal\registro.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+
